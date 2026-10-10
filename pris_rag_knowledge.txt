@@ -1,0 +1,24 @@
+# Audit and Compliance
+Audit and compliance work involves documentation, evidence collection, reconciliation, control checks, exception identification, regulatory requirements and audit trails.
+Interview focus: identify, document, escalate and resolve discrepancies.
+# Cash Flow Management
+Cash flow management covers cash inflows, cash outflows, working capital, liquidity and short-term funding needs.
+Key topics: cash-flow forecasting, operating cash flow, receivables, payables, liquidity monitoring and variance analysis.
+Interview focus: preparing a cash-flow forecast and comparing actual versus forecast results.
+# Excel for Finance
+Useful finance Excel skills include XLOOKUP/VLOOKUP, INDEX-MATCH, SUMIFS, IF/IFS, PivotTables, charts, reconciliation and data cleaning.
+Practice: reconcile datasets, build a monthly cash-flow tracker and create a variance report.
+# Financial Data Analysis
+Financial analysis covers income statements, balance sheets, cash-flow statements, ratios, trends, budgets and variance analysis.
+Key topics: profitability, liquidity, solvency, financial modelling, KPI analysis and trend analysis.
+# Placement Readiness
+Prioritize critical missing skills from the job description, then role-specific tools, practical projects, resume keywords and interview practice.
+# Power BI
+Power BI preparation includes Power Query, relationships, data modelling, measures, dashboards and DAX basics.
+# Python for Data Analysis
+Preparation should cover pandas, NumPy, data cleaning, missing values, grouping, merging, exploratory analysis and visualization.
+# Resume and Interview Preparation
+A job-specific resume should connect experience, projects, tools, outcomes and keywords to the target role.
+Interview preparation should cover role-specific technical questions, project explanation and behavioural examples.
+# SQL for Data Analytics
+Core SQL topics include SELECT, WHERE, GROUP BY, HAVING, JOINs, subqueries, CTEs, CASE, aggregate functions and window functions.
