@@ -25,3 +25,5 @@ secrets.toml
 student_placement_model_old.pkl
 RAG_INTEGRATION_PATCH.txt
 *.log
+student_placement_data.csv
+student_placement_synthetic.csv
